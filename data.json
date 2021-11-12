@@ -1,0 +1,77 @@
+{
+    "plywood": [
+        {
+            "company": "century",
+            "average-cost": 78.6923076923077,
+            "maximum-cost": 150
+        },
+        {
+            "company": "austin",
+            "average-cost": 88.56818181818181,
+            "maximum-cost": 200
+        },
+        {
+            "company": "kitply",
+            "average-cost": 77.72222222222223,
+            "maximum-cost": 160
+        },
+        {
+            "company": "sarda",
+            "average-cost": 60.77272727272727,
+            "maximum-cost": 111
+        },
+        {
+            "company": "greenply",
+            "average-cost": 95.42553191489361,
+            "maximum-cost": 160
+        },
+        {
+            "company": "alishan",
+            "average-cost": 95.42553191489361,
+            "maximum-cost": 160
+        }
+    ],
+    "drawchannels": [
+        {
+            "company": "hettich",
+            "average-cost": 180.3846153846154,
+            "maximum-cost": 477
+        },
+        {
+            "company": "olive",
+            "average-cost": 93.21428571428571,
+            "maximum-cost": 400
+        }
+    ],
+    "softclose_drawchannels": [
+        {
+            "company": "multibrand",
+            "average-cost": 93.21428571428571,
+            "maximum-cost": 400
+        }
+    ],
+    "softclosehinges": [
+        {
+            "company": "hettich",
+            "average-cost": 186.25714285714287,
+            "maximum-cost": 500
+        },
+        {
+            "company": "olive",
+            "average-cost": 142.41176470588235,
+            "maximum-cost": 322
+        },
+        {
+            "company": "hafele_multiBrand",
+            "average-cost": 175.0,
+            "maximum-cost": 450
+        }
+    ],
+    "wardrobe_channels": [
+        {
+            "company": "hafele",
+            "average-cost": 125.44444444444444,
+            "maximum-cost": 473
+        }
+    ]
+}
