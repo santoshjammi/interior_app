@@ -1,11 +1,13 @@
+# coding=utf-8
+
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 import json
 from collections import defaultdict
 data=defaultdict(list)
 
 def calculatePriceFromIndiaMart(itemtype,company,url):
-    page = urlopen(url)
+    page = urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0'}))
     html = page.read().decode("utf-8")
     soup = BeautifulSoup(html, "html.parser")
     total = soup.get_text()
