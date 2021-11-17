@@ -2,17 +2,17 @@
     "plywood": [
         {
             "company": "century",
-            "average-cost": 78.6923076923077,
-            "maximum-cost": 150
+            "average-cost": 74.84615384615384,
+            "maximum-cost": 145
         },
         {
             "company": "austin",
-            "average-cost": 88.56818181818181,
+            "average-cost": 88.15555555555555,
             "maximum-cost": 200
         },
         {
             "company": "kitply",
-            "average-cost": 77.72222222222223,
+            "average-cost": 78.27777777777777,
             "maximum-cost": 160
         },
         {
@@ -34,8 +34,8 @@
     "drawchannels": [
         {
             "company": "hettich",
-            "average-cost": 180.3846153846154,
-            "maximum-cost": 477
+            "average-cost": 158.75,
+            "maximum-cost": 450
         },
         {
             "company": "olive",
@@ -50,28 +50,35 @@
             "maximum-cost": 400
         }
     ],
-    "softclosehinges": [
+    "softCloseHinges": [
         {
             "company": "hettich",
-            "average-cost": 186.25714285714287,
+            "average-cost": 182.19444444444446,
             "maximum-cost": 500
         },
         {
             "company": "olive",
-            "average-cost": 142.41176470588235,
-            "maximum-cost": 322
+            "average-cost": 154.3783783783784,
+            "maximum-cost": 325
         },
         {
             "company": "hafele_multiBrand",
-            "average-cost": 175.0,
+            "average-cost": 175.78947368421052,
             "maximum-cost": 450
         }
     ],
-    "wardrobe_channels": [
+    "wardrobeChannels": [
         {
             "company": "hafele",
-            "average-cost": 125.44444444444444,
-            "maximum-cost": 473
+            "average-cost": 113.77777777777777,
+            "maximum-cost": 368
+        }
+    ],
+    "decolam": [
+        {
+            "company": "multibrand",
+            "average-cost": 351.3333333333333,
+            "maximum-cost": 500
         }
     ]
 }

@@ -38,11 +38,12 @@ def calculatePriceFromIndiaMart(itemtype,company,url):
     with open('data.json', 'w+') as outfile:
         json.dump(data, outfile,indent=4)
 
-file1 = open('myfile.txt', 'r')
+file1 = open('input.csv', 'r')
 Lines = file1.readlines()
 
 for line in Lines:
-    calculatePriceFromIndiaMart(line)
+    if "," in line:
+        calculatePriceFromIndiaMart(line.split(",")[0],line.split(",")[1],line.split(",")[2])
 
 with open('data.json') as json_file:
     output = json.load(json_file)
