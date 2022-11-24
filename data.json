@@ -2,83 +2,83 @@
     "plywood": [
         {
             "company": "century",
-            "average-cost": 74.84615384615384,
-            "maximum-cost": 145
+            "average-cost": 65.8695652173913,
+            "maximum-cost": 125
         },
         {
             "company": "austin",
-            "average-cost": 88.15555555555555,
-            "maximum-cost": 200
+            "average-cost": 103.91666666666667,
+            "maximum-cost": 140
         },
         {
             "company": "kitply",
-            "average-cost": 78.27777777777777,
-            "maximum-cost": 160
+            "average-cost": 84.32142857142857,
+            "maximum-cost": 139
         },
         {
             "company": "sarda",
-            "average-cost": 60.77272727272727,
-            "maximum-cost": 111
+            "average-cost": 65.5,
+            "maximum-cost": 80
         },
         {
             "company": "greenply",
-            "average-cost": 95.42553191489361,
-            "maximum-cost": 160
+            "average-cost": 75.125,
+            "maximum-cost": 170
         },
         {
             "company": "alishan",
-            "average-cost": 95.42553191489361,
-            "maximum-cost": 160
+            "average-cost": 75.125,
+            "maximum-cost": 170
         }
     ],
     "drawchannels": [
         {
             "company": "hettich",
-            "average-cost": 158.75,
-            "maximum-cost": 450
+            "average-cost": 380.5,
+            "maximum-cost": 958
         },
         {
             "company": "olive",
-            "average-cost": 93.21428571428571,
-            "maximum-cost": 400
+            "average-cost": 56.142857142857146,
+            "maximum-cost": 600
         }
     ],
     "softclose_drawchannels": [
         {
             "company": "multibrand",
-            "average-cost": 93.21428571428571,
-            "maximum-cost": 400
+            "average-cost": 56.142857142857146,
+            "maximum-cost": 600
         }
     ],
     "softCloseHinges": [
         {
             "company": "hettich",
-            "average-cost": 182.19444444444446,
-            "maximum-cost": 500
-        },
-        {
-            "company": "olive",
-            "average-cost": 154.3783783783784,
+            "average-cost": 202.4375,
             "maximum-cost": 325
         },
         {
+            "company": "olive",
+            "average-cost": 201.0,
+            "maximum-cost": 427
+        },
+        {
             "company": "hafele_multiBrand",
-            "average-cost": 175.78947368421052,
-            "maximum-cost": 450
+            "average-cost": 205.93333333333334,
+            "maximum-cost": 325
         }
     ],
     "wardrobeChannels": [
         {
             "company": "hafele",
-            "average-cost": 113.77777777777777,
-            "maximum-cost": 368
+            "average-cost": 198.66666666666666,
+            "maximum-cost": 667
         }
     ],
     "decolam": [
         {
             "company": "multibrand",
-            "average-cost": 351.3333333333333,
-            "maximum-cost": 500
+            "average-cost": 520.5555555555555,
+            "maximum-cost": 850
         }
     ]
 }
